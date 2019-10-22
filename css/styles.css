@@ -1,99 +1,99 @@
 #initial-hidden1{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden2{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden3{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden4{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 
 #initial-hidden5{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden6{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden7{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden8{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 
 #initial-hidden9{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden10{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden11{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden12{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 
 #initial-hidden13{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden14{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden15{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
 #initial-hidden16{
   display: none;
-  background-color: inherit;
+  background-color: lightgray;
   border-color: #b463f2;
   border-width: 5px;
 }
@@ -108,8 +108,10 @@
   text-align: center;
   font-size: 38px;
   font-family: serif;
+  background-color: lightgray;
 }
 
 body{
-  background-color: #ffa10a;
+  background: radial-gradient(circle, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  background-attachment: fixed;
 }
