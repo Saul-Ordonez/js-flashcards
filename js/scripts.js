@@ -39,6 +39,25 @@ $(document).ready(function(){
     $("#initial-hidden8").toggle();
     $("#initial-showing8").toggle();
   });
+  $(".clickable9").click(function(){
+    $("#initial-hidden9").toggle();
+    $("#initial-showing9").toggle();
+  });
+
+  $(".clickable10").click(function(){
+    $("#initial-hidden10").toggle();
+    $("#initial-showing10").toggle();
+  });
+
+  $(".clickable11").click(function(){
+    $("#initial-hidden11").toggle();
+    $("#initial-showing11").toggle();
+  });
+
+  $(".clickable12").click(function(){
+    $("#initial-hidden12").toggle();
+    $("#initial-showing12").toggle();
+  });
 
 
 });
