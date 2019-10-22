@@ -39,6 +39,7 @@ $(document).ready(function(){
     $("#initial-hidden8").toggle();
     $("#initial-showing8").toggle();
   });
+
   $(".clickable9").click(function(){
     $("#initial-hidden9").toggle();
     $("#initial-showing9").toggle();
@@ -59,5 +60,24 @@ $(document).ready(function(){
     $("#initial-showing12").toggle();
   });
 
+  $(".clickable13").click(function(){
+    $("#initial-hidden13").toggle();
+    $("#initial-showing13").toggle();
+  });
+
+  $(".clickable14").click(function(){
+    $("#initial-hidden14").toggle();
+    $("#initial-showing14").toggle();
+  });
+
+  $(".clickable15").click(function(){
+    $("#initial-hidden15").toggle();
+    $("#initial-showing15").toggle();
+  });
+
+  $(".clickable16").click(function(){
+    $("#initial-hidden16").toggle();
+    $("#initial-showing16").toggle();
+  });
 
 });
